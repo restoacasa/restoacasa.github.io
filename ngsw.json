@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1585672558774,
+  "timestamp": 1601279820386,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -37,7 +37,6 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/chatbot.jpg",
         "/assets/chatbot.png",
         "/assets/fonts/Lora/Lora-Bold.ttf",
         "/assets/fonts/Lora/Lora-Bold.woff",
@@ -102,11 +101,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/8-es2015.js": "b741ed91a5a9e7b0e3949265604079737a37cae0",
-    "/8-es5.js": "a5f440b1fbb4bd6260493d4db3516760c5527b8c",
-    "/9-es2015.js": "2aeba742e4f58fa903fe93e7d06be9d811122759",
-    "/9-es5.js": "fbeaf954100330cd1b664f88544e541bb3042c73",
-    "/assets/chatbot.jpg": "410795e5f4a5a69c42b9badd99c4983cde417f03",
+    "/8-es2015.js": "f0e7f51371e838d5109b25ee7330390de8ad17f0",
+    "/8-es5.js": "0b4d4b5634d0e8cbe9e7da05670638c8f79e7121",
+    "/9-es2015.js": "054084294701ad23d839585aa97d9f2265878726",
+    "/9-es5.js": "2783358ae4c5066b58a5cc655a4d3d5c44043e5d",
     "/assets/chatbot.png": "25e2cc3cbc0779569a01b35b8551fa10520d21fb",
     "/assets/fonts/Lora/Lora-Bold.ttf": "9e9c5a41cd498d5ea6757a68fa763b72ed4e3089",
     "/assets/fonts/Lora/Lora-Bold.woff": "90310bb80b0e4824effbb07232ac48e97ad805c5",
@@ -165,23 +163,23 @@
     "/assets/pwa-icons/manifest-icon-512.png": "a0761dc3fd0fedf9902034e49e28bd836f6654d1",
     "/assets/screenshot.png": "0f5fca505efbfe7c6a41b3575af0cd2fd14277f0",
     "/assets/sprite.svg": "d6ec3b2926ce62874fa34eadedc241cadb80171c",
-    "/canvg-es2015.js": "41a0ca2c5e8e03f53bc2dd0e6ed9f4b1ee706368",
-    "/canvg-es5.js": "b911a9bbb7a65f9237c7edd8c5c9c83c9aafe9c1",
+    "/canvg-es2015.js": "f065b9a5feb26a65f169f394c943d38e594eb29e",
+    "/canvg-es5.js": "1532afa9751a11e12011b58e6681c0a0a351f0c3",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "2618cf531ca6d86fd13b6583d80bc8574896082d",
-    "/main-es2015.js": "10dab204a923b569889f8340d716a4364ab2fa50",
-    "/main-es5.js": "79786170244f0b6d197d60c53b3f501c548928b1",
+    "/index.html": "1e1cf5000a00f353081ad6139ff053b7904f987e",
+    "/main-es2015.js": "a3553edcb2f268caf130393ae3301e39148ffbd6",
+    "/main-es5.js": "b188d1b001b9da827bb5e445cfba394780d81302",
     "/manifest.webmanifest": "3d3dc8c6bfc143189eeb70df87e3bca1731c0d7c",
-    "/pdfmake-es2015.js": "13599746170fcb45b4cd75fd66a50ee455282276",
-    "/pdfmake-es5.js": "05d786c0bbb42ff8ef6d424bb97945acc0f46f0e",
-    "/polyfills-es2015.js": "dd530f0fe9484e5c40fd2d1d3b1180e265ce2212",
-    "/polyfills-es5.js": "e4f8444cffe1c972f14ab9c3e6e8ff75a6381e51",
+    "/pdfmake-es2015.js": "41f7c38cd756672459d46c968aa604d4db545f34",
+    "/pdfmake-es5.js": "b35ceb9ef8cb990fcad08d356c31e2d4dbb54fd1",
+    "/polyfills-es2015.js": "d7e4fa953e53c32a28c8040fad7aeb2daaf59ab0",
+    "/polyfills-es5.js": "537122aa745688ec54435ae1ba59f1176fdcd242",
     "/runtime-es2015.js": "b842b53e76fe3e8af816567d447adc75b0f17071",
     "/runtime-es5.js": "5fe2ac86c1c958b39bb614aa3e3e24f1fcfe59f8",
-    "/scripts.js": "51632eaf07c25f236a1aaa70438027e5c3c845c7",
-    "/styles.css": "488783490ffffa99a1f7008c3bee75206b9887c7",
-    "/xlsx-es2015.js": "0c4ab048faa4dcba2f97a00e6e1603aa6daaa8df",
-    "/xlsx-es5.js": "6a86edcdc7dc471a17032809096afa8cd79e2dba"
+    "/scripts.js": "e5d555c660701945e731f30d4009d7b77c0f833a",
+    "/styles.css": "a4bf8a84cf44e80a9ddeee5d30af58e23d6c22d9",
+    "/xlsx-es2015.js": "f43299aa5c494c01c8f602cf65c48e4811f70ae4",
+    "/xlsx-es5.js": "67af5167fd9a04d8b725c98c0f8691d8f4b8987a"
   },
   "navigationUrls": [
     {
